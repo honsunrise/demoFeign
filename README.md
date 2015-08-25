@@ -2,7 +2,7 @@
 
 reproduce the problem step
 
-1. Run eurake
+1. Run eureka
 2. Run resource-server1
 3. Run resource-server2
 4. Visit http://localhost:8081
